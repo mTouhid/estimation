@@ -188,6 +188,8 @@ GEM
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
+    semantic-ui-sass (2.4.4.0)
+      sassc
     semantic_range (3.0.0)
     shoulda-matchers (5.0.0)
       activesupport (>= 5.2.0)
@@ -252,6 +254,7 @@ DEPENDENCIES
   rspec-rails (~> 5.0.0)
   sass-rails (>= 6)
   selenium-webdriver
+  semantic-ui-sass
   shoulda-matchers (~> 5.0)
   simplecov
   spring
